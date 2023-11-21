@@ -9,7 +9,7 @@ env:
   LOCATION: southeastasia
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: b9aab09f-d011-4c56-aedc-ca72f3d98531
-  WEBAPP-NAME: az400-webapp-eshop
+  WEBAPP-NAME: az400-webapp-eshoponweb
 
 
 jobs:
